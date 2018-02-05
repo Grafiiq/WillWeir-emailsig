@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+p {
+	font-family: montserrat;
+	font-size: 13px;
+	text-decoration-color: #666666;
+	line-height: 13px
+	;
+}
+
+td {
+	margin: -5;
+	text-decoration-color: rgb(102, 102, 102);
+}
+a { 
+	text-decoration: none;
+	text-decoration-color: rgb(102, 102, 102);
+}	
+a {
+    color: rgb(102, 102, 102) ;
+}
+a:visited {
+    color: rgb(102, 102, 102) ;
+}
+a:hover {
+    color:  rgb(102, 102, 102);
+}
+a:focus {
+    color:  rgb(102, 102, 102);
+}
+a:active {
+	color: rgb(102, 102, 102);
+}
+h1 {
+	font-family: montserrat;
+	font-size: 18px;
+	color: #a4c6d3;
+	line-height: 16px;
+}
+image {
+	align-content: center;
+}
+div2 {
+	text-align: center;
+}
